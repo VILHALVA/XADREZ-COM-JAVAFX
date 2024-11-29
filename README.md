@@ -29,7 +29,6 @@ O jogo possui uma lógica básica que controla as peças no tabuleiro, verifica 
    ```
 
 ## COMO JOGAR?  
-### Como jogar
 1. **Iniciar o jogo**:
    - Ao iniciar o programa, o tabuleiro de xadrez será exibido, com as peças pretas e brancas dispostas em suas posições iniciais.
 
